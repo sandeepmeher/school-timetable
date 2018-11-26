@@ -1,0 +1,2 @@
+Advaita had an idea about creating an Alexa skill for helping him get ready every night with his school for the next day.
+This is a log of what it takes to do that.
